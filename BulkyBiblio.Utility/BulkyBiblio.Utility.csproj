@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BulkyBiblio.DataAccess\BulkyBiblio.DataAccess.csproj" />
+    <ProjectReference Include="..\BulkyBiblio.Models\BulkyBiblio.Models.csproj" />
+  </ItemGroup>
+
 </Project>

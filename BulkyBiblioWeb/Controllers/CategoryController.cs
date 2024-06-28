@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using BulkyBiblioWeb;
+using BulkyBiblio.DataAccess.Data;
+using BulkyBiblio.Models.Models;
 
 namespace BulkyBiblioWeb.Controllers
 {
